@@ -1,7 +1,5 @@
-<h1 align="center"> 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40" />
-  Hi, I'm Dharsana 👋
-</h1>
+<h1 align="center"> <img src="animated/hands.gif" height="40" ><i>Hi there, I'm</i> <a href="https://github.com/Neahans">Dharsana K R</a> <img src="animated/unicorn.gif" height="40" /></h1>
+
 
 <div align="center">
 
