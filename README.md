@@ -1,4 +1,4 @@
-# Hi — I'm Dharsana 👋  
+# Hi — I'm Dharsana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 **B.Tech CSE • Full-stack Developer • Cybersecurity & ML Enthusiast**
 
 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" align="right">
@@ -19,7 +19,7 @@ Model training • Preprocessing • Evaluation • Demo web app *(WIP)*
 ## ⭐ Featured Projects  
 
 ### 🔹 **Replica – Clone Website Detection**
-
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyODZsNTJlZmd4c2F4MDlia293YmIxOWQ0ZmFyaG4xczBnOThxaDI2byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rqd9R3yaDy16a8kDC1/giphy.gif" width="120" align="right">
 - Auto-detects suspicious URLs from user interaction  
 - Detects phishing using XGBoost  
 - Flask + MongoDB backend  
