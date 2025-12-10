@@ -1,98 +1,72 @@
-<!-- HEADER GIF -->
-<p align="center">
-  <img src="https://i.imgur.com/jx17oHT.gif" width="750" />
-</p>
+# Hi — I'm Dharsana 👋  
+**B.Tech CSE • Full-stack Developer • Cybersecurity & ML Enthusiast**
 
-<h1 align="center">✨ Hi — I'm <strong>Dharsana</strong> 👋</h1>
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" align="right">
 
-<p align="center">
-  <b>B.Tech CSE</b> • Full-Stack Developer • Cybersecurity Enthusiast • ML & Deep Learning Learner  
-</p>
-
-<p align="center">
-I build web apps and machine learning tools that solve real problems — from phishing detection to medical image analysis.
-</p>
+I build web apps and machine learning tools that solve real problems —  
+from phishing detection to medical image analysis.
 
 ---
 
-## 🔭 **Current Work**
-<p align="center">
-  <img src="https://i.imgur.com/qZ7G0hK.gif" width="400" />
-</p>
+## 🔭 Current Work  
+<img src="https://media.giphy.com/media/kA2aY0YjO2TqU/giphy.gif" width="150" align="right">
 
-🚧 **Automated Cerebral Infarcts Detection (fMRI + Deep Learning)**  
-Model training • Brain imaging preprocessing • Web demo (WIP)
+### **Automated Cerebral Infarcts Detection (fMRI + Deep Learning)**  
+Model training • Preprocessing • Evaluation • Demo web app *(WIP)*  
 
 ---
 
-## ⭐ **Featured Projects**
+## ⭐ Featured Projects  
+
+### 🔹 **Replica – Clone Website Detection**
+<img src="https://media.giphy.com/media/Q7tH9Zp6YkJjK/giphy.gif" width="120" align="right">
+- Auto-detects suspicious URLs from user interaction  
+- Detects phishing using XGBoost  
+- Flask + MongoDB backend  
+**Repo:** https://github.com/YOUR/replica  
 
 ---
 
-### 🚨 **Replica — Clone Website Detection App**
-<p align="center">
-  <img src="https://i.imgur.com/IfsRlaP.gif" width="600" />
-</p>
-
-- Automatically captures links & detects phishing  
-- Uses **XGBoost**, Flask backend, MongoDB  
-👉 **Repo:** https://github.com/YOUR/replica  
-👉 **Demo:** _add link_
+### 🔹 **Fake News Detection**
+<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="120" align="right">
+- ML-based classification using NLP features  
+- Flask web interface  
+**Repo:** https://github.com/YOUR/fake-news  
 
 ---
 
-### 📰 **Fake News Detection Webapp**
-<p align="center">
-  <img src="https://i.imgur.com/8fFHt6b.gif" width="600" />
-</p>
-
-- NLP + ML text classification  
-- Flask backend + UI  
-👉 **Repo:** https://github.com/YOUR/fake-news
+### 🔹 **Student Attendance Web App**
+<img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="120" align="right">
+- User authentication  
+- Attendance marking + CSV export  
+**Repo:** https://github.com/YOUR/attendance  
 
 ---
 
-### 📝 **Student Attendance Webapp**
-<p align="center">
-  <img src="https://i.imgur.com/zC0Z8Jv.gif" width="600" />
-</p>
-
-- Attendance management dashboard  
-- Login, register, CSV export  
-👉 **Repo:** https://github.com/YOUR/attendance
+### 🔹 **Cerebral Infarcts Detection (Deep Learning)**
+<img src="https://media.giphy.com/media/26xBP3Ff0IFpEztj2/giphy.gif" width="120" align="right">
+- fMRI image analysis  
+- CNN/Deep Learning models  
+**Repo:** https://github.com/YOUR/cerebral-infarcts  
 
 ---
 
-### 🧠 **Automated Cerebral Infarcts Detection (fMRI + DL)**
-<p align="center">
-  <img src="https://i.imgur.com/AZJq9oF.gif" width="600" />
-</p>
+## 🛠️ Skills & Tools  
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="150" align="right">  
 
-- fMRI + Deep Learning  
-- TensorFlow / PyTorch model  
-👉 **Repo:** https://github.com/YOUR/cerebral-infarcts  
-*(WIP)*
+**Languages & Frameworks:**  
+Python • JavaScript • HTML/CSS • Flask • TensorFlow • PyTorch  
 
----
+**Databases:**  
+MongoDB • MySQL • SQLite  
 
-## 🛠️ **Skills & Tools**
-<p align="center">
-  
-🟦 Python &nbsp; • &nbsp; 🟧 Flask &nbsp; • &nbsp; 💛 JavaScript &nbsp; • &nbsp; 🎨 HTML/CSS  
-🟩 MongoDB &nbsp; • &nbsp; 🗄️ SQL &nbsp; • &nbsp; ⚙️ Git &nbsp; • &nbsp; 🧠 TensorFlow  
-🔥 PyTorch &nbsp; • &nbsp; 📦 Docker &nbsp; • &nbsp; 🐍 XGBoost  
+**ML Tools:**  
+XGBoost • Scikit-learn  
 
-</p>
+**DevOps & Others:**  
+Git • Docker • VS Code  
 
 ---
 
-## 📫 **Contact**
-<p align="center">
-  🌐 <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> • 📧 yourmail@example.com  
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/6u1dR1L.gif" width="300" />
-</p>
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/YOUR_LINK/)
