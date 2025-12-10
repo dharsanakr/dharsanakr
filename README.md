@@ -23,11 +23,4 @@ Python • Flask • JavaScript • HTML/CSS • MongoDB • SQL • XGBoost •
 
 ---
 
-## ▶️ Quick start (example)
-```bash
-git clone https://github.com/YOUR/replica.git
-cd replica
-python -m venv venv
-source venv/bin/activate   # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-python app.py
+
