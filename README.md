@@ -54,7 +54,7 @@ Model training • Preprocessing • Evaluation • Demo web app *(WIP)*
 <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="150" align="right">  
 
 **Languages & Frameworks:**  
-Python • JavaScript • HTML/CSS • Flask • TensorFlow • PyTorch  
+Python • JavaScript • HTML/CSS • Flask  
 
 **Databases:**  
 MongoDB • MySQL • SQLite  
@@ -63,7 +63,7 @@ MongoDB • MySQL • SQLite
 XGBoost • Scikit-learn  
 
 **DevOps & Others:**  
-Git • Docker • VS Code  
+Git • VS Code  
 
 ---
 
