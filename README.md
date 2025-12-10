@@ -9,7 +9,7 @@ from phishing detection to medical image analysis.
 ---
 
 ## 🔭 Current Work  
-<img src="https://media.giphy.com/media/kA2aY0YjO2TqU/giphy.gif" width="150" align="right">
+
 
 ### **Automated Cerebral Infarcts Detection (fMRI + Deep Learning)**  
 Model training • Preprocessing • Evaluation • Demo web app *(WIP)*  
@@ -19,7 +19,7 @@ Model training • Preprocessing • Evaluation • Demo web app *(WIP)*
 ## ⭐ Featured Projects  
 
 ### 🔹 **Replica – Clone Website Detection**
-<img src="https://media.giphy.com/media/Q7tH9Zp6YkJjK/giphy.gif" width="120" align="right">
+
 - Auto-detects suspicious URLs from user interaction  
 - Detects phishing using XGBoost  
 - Flask + MongoDB backend  
@@ -28,7 +28,7 @@ Model training • Preprocessing • Evaluation • Demo web app *(WIP)*
 ---
 
 ### 🔹 **Fake News Detection**
-<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="120" align="right">
+
 - ML-based classification using NLP features  
 - Flask web interface  
 **Repo:** https://github.com/YOUR/fake-news  
@@ -36,7 +36,6 @@ Model training • Preprocessing • Evaluation • Demo web app *(WIP)*
 ---
 
 ### 🔹 **Student Attendance Web App**
-<img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="120" align="right">
 - User authentication  
 - Attendance marking + CSV export  
 **Repo:** https://github.com/YOUR/attendance  
@@ -44,7 +43,7 @@ Model training • Preprocessing • Evaluation • Demo web app *(WIP)*
 ---
 
 ### 🔹 **Cerebral Infarcts Detection (Deep Learning)**
-<img src="https://media.giphy.com/media/26xBP3Ff0IFpEztj2/giphy.gif" width="120" align="right">
+
 - fMRI image analysis  
 - CNN/Deep Learning models  
 **Repo:** https://github.com/YOUR/cerebral-infarcts  
