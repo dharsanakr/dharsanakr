@@ -23,7 +23,7 @@ Model training • Preprocessing • Evaluation • Demo web app *(WIP)*
 - Auto-detects suspicious URLs from user interaction  
 - Detects phishing using XGBoost  
 - Flask + MongoDB backend  
-**Repo:** https://github.com/YOUR/replica  
+**Repo:** https://github.com/dharsanakr/Clone-Website-Detection-REPLICA  
 
 ---
 
