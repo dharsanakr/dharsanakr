@@ -38,7 +38,7 @@ Model training • Preprocessing • Evaluation • Demo web app *(WIP)*
 ### 🔹 **Student Attendance Web App**
 - User authentication  
 - Attendance marking + CSV export  
-**Repo:** 
+**Repo:** https://github.com/dharsanakr/Student-Attendance-System
 ---
 
 ### 🔹 **Cerebral Infarcts Detection (Deep Learning)**
