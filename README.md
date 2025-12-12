@@ -31,22 +31,21 @@ Model training • Preprocessing • Evaluation • Demo web app *(WIP)*
 
 - ML-based classification using NLP features  
 - Flask web interface  
-**Repo:** https://github.com/YOUR/fake-news  
+
 
 ---
 
 ### 🔹 **Student Attendance Web App**
 - User authentication  
 - Attendance marking + CSV export  
-**Repo:** https://github.com/YOUR/attendance  
-
+**Repo:** 
 ---
 
 ### 🔹 **Cerebral Infarcts Detection (Deep Learning)**
 
 - fMRI image analysis  
 - CNN/Deep Learning models  
-**Repo:** https://github.com/YOUR/cerebral-infarcts  
+
 
 ---
 
