@@ -48,6 +48,7 @@ Hi! I'm **Dharsana K R** — a passionate student and aspiring developer who lov
 
 ## 🌐 Socials
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharsanakr.official@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharsana-kr2166)
 <!-- Add more links below if you want (LinkedIn, Portfolio, LeetCode, etc.) -->
 
 ---
@@ -62,13 +63,6 @@ Hi! I'm **Dharsana K R** — a passionate student and aspiring developer who lov
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
-
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=dharsanakr&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophies" />
-
----
 
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev-quote" />
